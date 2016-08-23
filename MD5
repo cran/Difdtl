@@ -1,0 +1,11 @@
+e8137c9a94ee89c2741997376e6456ce *DESCRIPTION
+368313349ad3580dceae82db8f9258cb *NAMESPACE
+1365db12c6aab955def4333f1d2a3946 *R/Functionsnew.R
+eac20ac236c540ae8e11a8024c67f9ae *man/Difdtl-package.Rd
+1fabd17515701ec3b66015b8b6eb21da *man/Dpmdtl.Rd
+e0083e9eb82cc77e74478c9f8124b308 *man/L1_dts.Rd
+9087f2a8692b51c7e58ed44099316e14 *man/dpmdtl.ic.Rd
+a7e24f67b56c00f3631a19d7cfea6874 *man/genp.Rd
+32410f1fca7abcb8df052eaae5778541 *man/genp1.Rd
+92b784c76be2bbb42bc68410d14c49ab *man/loss.Rd
+4f9996b5acc5a7a20fe238cd1ee4e19d *src/dtl.c

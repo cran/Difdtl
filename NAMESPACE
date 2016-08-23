@@ -1,0 +1,4 @@
+useDynLib(Difdtl)
+export(genp,genp1,L1_dts,Dpmdtl,loss,dpmdtl.ic)
+importFrom("stats","cor","cov","rnorm","runif")
+importFrom("MASS","mvrnorm")
